@@ -1,0 +1,16 @@
+{
+ "port": "COM11",
+ "baud": 9600,
+ "auto_connect": true,
+ "auto_detect_port": true,
+ "log_interval_s": 1,
+ "no_data_s": 5,
+ "tts_enabled": true,
+ "elevenlabs_api_key": "",
+ "elevenlabs_voice_id": "21m00Tcm4TlvDq8ikWAM",
+ "elevenlabs_model": "eleven_multilingual_v2",
+ "jump_adc": 60,
+ "jump_window_s": 3,
+ "tts_cooldown_s": 20,
+ "critical_repeat_s": 0
+}
